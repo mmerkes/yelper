@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/mmerkes/yelper/issues"
   },
-  "homepage": "https://github.com/mmerkes/yelper"
+  "homepage": "https://github.com/mmerkes/yelper",
+  "dependencies": {
+    "yelp": "~0.1.1",
+    "oauth": "~0.9.11",
+    "express": "~3.4.8"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
 }
